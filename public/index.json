@@ -1,0 +1,29 @@
+[
+{
+	"uri": "http://blog.neokyxero.com/kubernetes/",
+	"title": "Kubernetes",
+	"tags": [],
+	"description": "",
+	"content": "Kubernetes Where to start? Tools? Self-managed? Hosted?\n"
+},
+{
+	"uri": "http://blog.neokyxero.com/",
+	"title": "Basics",
+	"tags": [],
+	"description": "",
+	"content": "Welcome Neoky.Dev (Working Title) Welcome to my blog. It\u0026rsquo;s mostly going to be filled with tutorials for the various technologies I work with.\nMy name is Martin. I have been in tech for over 10 years now. I have a Bachelor\u0026rsquo;s and Master\u0026rsquo;s in Computer Science from the University of Alabama in Huntsville. I started it of as a full stack Ruby on Rails developer working mainly freelance. I moved on to cloud infrastructures, primarly AWS. I went back to school to get my Master\u0026rsquo;s where I got into Cybersecurity and made the labs for the Openstack course. Now I do Compliance, Infrastructure as Code, Kubernetes, and at times upgrading code so old that the original devs are retired.\nThis site is built using Hugo. It\u0026rsquo;s my first time using it and I am learning. I am using the Hugo-Theme-Learn by matcornic. It is deployed using deploy.sh by masterpi-2124.\n"
+},
+{
+	"uri": "http://blog.neokyxero.com/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://blog.neokyxero.com/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
