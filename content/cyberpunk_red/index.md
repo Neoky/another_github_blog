@@ -4,7 +4,7 @@ date: 2021-12-06T08:06:43-06:00
 draft: true
 ---
 
-I run TTRPGs and this is a reference page for tools and homebrews to make DM'ing easy. 
+I run TTRPGs and this is a reference page for tools and homebrews to make DM'ing easier. 
 
 # RipperDoc Red
 Great tool for creating PCs and NPCs
@@ -15,7 +15,6 @@ Another really good tool for making characters. I still have not figure out whic
 https://cyberpunk-char-gen.neocities.org/#/
 
 # Homebrews
-I apologize if I do not reference creators. I will do my best to remedy this when I can. I do not take credit for creating these. I am only referencing these for personal use.
 
 ## Items / Gear / Weapons
 * Revolvers - by Empty Dingo
@@ -97,6 +96,15 @@ https://p-d-gallagher.itch.io/augmented-reality
 from /u/dannyb2525. Throw some weird, good, or hateful things towards your players.
 https://www.reddit.com/r/cyberpunkred/comments/qlktnh/d20_weird_night_city_encounters/
 
+* List of great generators by perchance.
+https://perchance.org/cyberpunk-red-exotic-gun-generator
+https://perchance.org/cyberpunk-red-miniboss-generator
+https://perchance.org/cyberpunk-run-beat-generator
+https://perchance.org/cpred-net-architecture-generator
+https://perchance.org/cyberpunk-red-mook-creator
+https://perchance.org/cyberpunk-red-npc-generator
+https://perchance.org/cyberpunk-red-club-random-event
+https://perchance.org/cyberpunk-red-job-generator
 
 
 ## Maps
@@ -133,3 +141,29 @@ https://cybersmily.net/
 * Neon Red AAR
 Great subreddit with posts from GMs about their gigs and how players went about them.
 https://www.reddit.com/r/NeonRedAAR/
+
+# From RTalsorian
+
+## Multiclassing
+These are great for creating unique NPCs.
+* Nomad
+https://www.reddit.com/r/cyberpunkred/comments/spb0x1/multiclassing_in_cyberpunk_red_part_10_the_nomad/
+* Fixers
+https://www.reddit.com/r/cyberpunkred/comments/snq2rv/multiclassing_in_cyberpunk_red_part_9_fixers/
+* Lawmen
+https://www.reddit.com/r/cyberpunkred/comments/sn097u/multiclassing_in_cyberpunk_red_8_lawmen/
+* Exec
+https://www.reddit.com/r/cyberpunkred/comments/skhvmf/multiclassing_in_cyberpunk_red_part_7_execs/
+* Medias
+https://www.reddit.com/r/cyberpunkred/comments/sjp4rg/multiclassing_in_cyberpunk_red_part_6_medias/
+* Medtechs
+https://www.reddit.com/r/cyberpunkred/comments/sinx7n/multiclassing_in_cyberpunk_red_part_5_medtechs/
+* Techs
+https://www.reddit.com/r/cyberpunkred/comments/shwp99/multiclassing_in_cyberpunk_red_part_4_techs/
+* Netrunners
+https://www.reddit.com/r/cyberpunkred/comments/sh5lqh/multiclassing_part_3_netrunners/
+* Solo
+https://www.reddit.com/r/cyberpunkred/comments/sev9dd/multiclassing_part_2_solos/
+* Rockerboy
+https://www.reddit.com/r/cyberpunkred/comments/se0wfz/multiclass_concepts_the_rockerboy/
+

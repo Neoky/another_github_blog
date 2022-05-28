@@ -9,6 +9,8 @@ draft: true
 ## Skills
 * Skill trees by /u/CUVICO
 https://www.reddit.com/r/WitcherTRPG/comments/r85fk9/optional_skill_trees/
+https://www.reddit.com/r/WitcherTRPG/comments/rbsfuc/i_need_your_opinion_with_these_extra_optional/
+
 
 
 ## Adventures
